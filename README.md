@@ -18,3 +18,5 @@ This project deepens your understanding of file handling in C, strengthens skill
 
 # Usage
 To use this function in your projects, compile it along with your source files, and include the get_next_line.h header file. The get_next_line function can be integrated into any C program that requires line-by-line file reading, with efficient memory and buffer management, and support for multiple file descriptors.
+
+![Screenshot from 2024-08-21 21-27-12](https://github.com/user-attachments/assets/22622306-f377-4977-baf4-e5e00b8422cf)
